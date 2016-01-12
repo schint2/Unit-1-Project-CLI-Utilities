@@ -17,6 +17,7 @@ Completed:
  Required: The --logfile argument outputs all logs to the file specified instead of stdout
 
 
+![Video Walkthrough](https://raw.githubusercontent.com/schint2/Unit-1-Project-CLI-Utilities/master/GIF-N.gif)
 
  Starting the Server
 
